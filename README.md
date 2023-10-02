@@ -1,1 +1,1 @@
-# ImageNet_and_COCO_patched_dataset
+# Benchmarking Image Classifiers for Physical Out-of-Distribution Examples Detection
